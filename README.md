@@ -1,1 +1,1 @@
-creation of excpetions in method start of car class ans handling exception in index
+creation of an interface and implement it in classes Bike and Car
